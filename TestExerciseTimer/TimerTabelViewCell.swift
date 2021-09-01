@@ -45,7 +45,7 @@ class TimerTableViewCell: UITableViewCell {
         infoLabel.widthAnchor.constraint(equalToConstant:60).isActive = true
         infoLabel.heightAnchor.constraint(equalToConstant:20).isActive = true
         
-        timerLabel.widthAnchor.constraint(equalToConstant:80).isActive = true
+        timerLabel.widthAnchor.constraint(equalToConstant:150).isActive = true
         timerLabel.heightAnchor.constraint(equalToConstant:20).isActive = true
         timerLabel.trailingAnchor.constraint(equalTo:self.contentView.trailingAnchor, constant: -10).isActive = true
         timerLabel.centerYAnchor.constraint(equalTo:self.contentView.centerYAnchor).isActive = true
