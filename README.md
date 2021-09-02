@@ -1,5 +1,7 @@
 # TimerApp
 
+<img width="541" alt="1" src="https://user-images.githubusercontent.com/37482409/131760982-98fdeb46-0b26-4b5b-9c20-2cd0537c02f5.png">
+
 Создать приложение мультитаймер
 
 Без использование Swift UI, xib и storyboard
